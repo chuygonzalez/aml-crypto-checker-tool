@@ -1,0 +1,5 @@
+tx001,0xSanctionedAddress1,0xRecipient1,50.0,BTC,1700000000
+tx002,0xCleanAddress,0xCleanAddress2,5.0,ETH,1700000001
+tx003,0xBadActorWallet3,0xExchangeWallet,200.0,XMR,1700000002
+tx004,0xNormalUser,0xNormalUser2,50000.0,USDT,1700000003
+tx005,0xNormalUser,0xNormalUser2,0.5,ETH,1700000004
