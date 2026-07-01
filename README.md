@@ -152,4 +152,4 @@ Common flags: `--help`, `--verbose`, `--config path\to\config.json`, `--export-f
 **❓ Is AML Crypto Checker 2025 detectible by compliance monitoring systems?**  
 The tool itself is a standalone utility — it does not inject into or hook other processes unless you explicitly enable daemon mode. Standard use (manual address lookup, batch CSV scanning) leaves no trace on monitored systems. For enterprise compliance teams, we recommend using the isolated offline mode.
 
-**❓ How often
+**❓ How often‍
